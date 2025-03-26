@@ -13,8 +13,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # -------------------------------
 # Constants and Global Variables
 # -------------------------------
-GOOGLE_API_KEY = "AIzaSyD5f6JL4kwoZhmlZWCXrEFgFUxcFgsFn-U"
-GOOGLE_ENGINE_ID = "c7b4796a0d02a4d2c"
+GOOGLE_API_KEY = ""
+GOOGLE_ENGINE_ID = ""
 STOPWORDS = set(stopwords.words('english'))
 
 # -------------------------------
