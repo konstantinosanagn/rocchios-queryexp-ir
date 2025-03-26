@@ -1,5 +1,4 @@
 # Information Retrieval System with User Feedback using Google Search API
-## Team members: Konstantinos Anagnostopoulos (UNI: ka3037), Jane Lim (UNI: jl6094)
 
 In this repo, you will find the following files:
 - search.py: implementation of IR system
