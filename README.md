@@ -88,5 +88,5 @@ This project enhances search precision using Rocchio’s algorithm, refining que
 - Reorders query terms based on their weights, minus the original query (always placed first)
 
 ### Environment Variables (API Key & Engine ID)
-API Key = AIzaSyD5f6JL4kwoZhmlZWCXrEFgFUxcFgsFn-U \
-Engine ID = c7b4796a0d02a4d2c
+API Key = 'GOOGLE_SEARCH_API_KEY'
+Engine ID = 'SEARCH_ENGINE_ID'
